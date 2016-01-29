@@ -55,6 +55,6 @@
   },
   "dependencies": {
     "angular": "^1.4.5",
-    "chart.js": "nnnick/Chart.js#2.0.0-beta2"
+    "chart.js": "nnnick/Chart.js#2.0.0-beta1"
   }
 }
